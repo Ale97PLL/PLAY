@@ -43,7 +43,7 @@ PLAY allows you to configurate your telescope by selecting OTA and mount type by
 ## PLAY - Prima Luce AstrophotographY software: questions and answers.
 
 - Q: What PLAY features are available in PLAY 1.1?
-- A: PLAY 1.1 includes the configurator with ASCOM interface, ESATTO and SESTO SENSO 2 support (with ARCO integration), EQ and Alt-Az mounts support with alignment and target pointing, astronomy camera control. We will progressively update it by adding more and more features.
+- A: PLAY 1.3.0 includes the configurator with ASCOM interface, ESATTO and SESTO SENSO 2 support (with ARCO integration), EQ and Alt-Az mounts support with alignment and target pointing, astronomy camera control, GIOTTO support with automatic calibration procedure to capture BIAS frames. We will progressively update it by adding more and more features.
 #
 - Q: How much does PLAY cost?
 - A: PLAY is free.
