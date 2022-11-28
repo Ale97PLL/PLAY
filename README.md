@@ -1,7 +1,6 @@
 # PLAY  - Prima Luce AstrophotographY software
 
-![Play Pc](https://www.primalucelab.com/9323-thickbox_default/play-prima-luce-astrophotography-software.jpg)
-
+![Play Pc](https://www.primalucelab.com/9343-thickbox_default/play-prima-luce-astrophotography-software.jpg)
 
 PLAY is the astrophotography software developed by PrimaLuceLab in order to record beautiful pictures of the night sky in the simpler way and with the telescope you prefer! PLAY includes many features needed for astrophotography like focuser control to perfectly focus you image, mount control for alignment and pointing of many objects, camera control to preview image or to record even a sequence and rotator control to rotate your camera and/or de-rotate field of view.
 
@@ -13,16 +12,18 @@ In order to use PLAY you have to have at least ESATTO focuser or SESTO SENSO 2 f
 
 PLAY is the software for Windows 10/11 and EAGLE computers that PrimaLuceLab developed in order to provide the easiest solution for astrophotography with telescope, camera and other accessories you want to use in your setup. PLAY is not a replacement for great automation astrophotography softwares like Sequence Generator Pro, NINA, Voyager, MaximDL, Prism and others that provide the most advanced features but that are designed for experts. PLAY is the straightforward way for advanced astrophotography allowing you to record great pictures of galaxies, nebulas, star clusters, planets, Moon and Sun without complexity!
 
-## PLAY 1.4 Prima Luce AstrophotographY software - main features:
+## PLAY 1.5 Prima Luce AstrophotographY software - main features:
 - Connect to PrimaLuceLab devices
 - Connect to ASCOM mounts (equatorial)
 - Connect to supported Alt-Azi mounts (SkyWatcher AZ-EQ5 and AZ-EQ6)
-- Connect to ASCOM cameras
+- Connect to ASCOM cameras (tested with QHYCCD, ZWO, Atik and QSI cameras with ASCOM driver updated for 6.6 platform)
 - Connect to ScopeDome observatory domes provided with ASCOM (tested with ScopeDome Arduino Card ver. 5.5.24)
 - FOCUS tab to control SESTO SENSO 2 or ESATTO focusing solutions
 - TARGET tab to control mount and rotate ARCO
-- CALIBRATE tab to control GIOTTO flat field generator and capture calibration files
+- CALIBRATE tab to control GIOTTO flat field generator and/or ALTO telescope cover motor and capture calibration files
 - PREVIEW tab to view real time picture, set capture settings and capture images
+- Dual telescope mode to control setups with dual focusers, dual rotators, dual flat field generators and dual telescope cover motor
+- Multi-language support: English, Italian, German, Spanish and French
 
 
 [![Play 1.0](https://img.youtube.com/vi/EOeoET90oTs/maxresdefault.jpg)](https://www.youtube.com/watch?v=EOeoET90oTs)
@@ -43,7 +44,7 @@ Not only PLAY allows you to control EQ mounts through their ASCOM driver but it 
 
 Not only PLAY allows you to connect to PrimaLuceLab devices, but you can also control astronomy cameras provided with ASCOM drivers (compatible with ASCOM platform at least 6.5 version). This way you can decide your acquisition settings, preview the image, stretch the histogram and capture a sequence of images that you can later stack with a dedicated astrophotography processing software.
 
-[![DeepSky preview](https://www.primalucelab.com/img/cms/PLAY-Prima-Luce-AstrophotographY-software-1-4-image4.gif?1662205742124)
+![DeepSky preview](https://www.primalucelab.com/img/cms/PLAY-Prima-Luce-AstrophotographY-software-1-4-image4.gif?1662205742124)
 
 ## Take control of your preferred telescope and accessories for astrophotography.
 
@@ -52,10 +53,17 @@ PLAY allows you to configurate your telescope by selecting OTA and mount type by
 ![Play configurator](https://www.primalucelab.com/img/cms/PLAY-Prima-Luce-AstrophotographY-software-1-4-image3-new.gif)
 
 
+## Dual-telescope mode: simultaneously control 2 telescopes.
+
+PLAY allows you to control also setups composed by 2 telescopes on a single mount: now you can control 2 optical tubes (OTA1 and OTA2) that have dual focusers, dual rotators, dual flat field generators and dual telescope cover motors! Also the "Connect All" feature allows you to connect to dual telescope setups with just a click of a button.
+
 ## PLAY - Prima Luce AstrophotographY software: questions and answers.
 
-- Q: What PLAY features are available in latest PLAY 1.4?
-- A: PLAY 1.4 includes the configurator with ASCOM interface, ESATTO and SESTO SENSO 2 support (with ARCO integration), EQ and Alt-Az mounts support with alignment and target pointing, astronomy camera control, GIOTTO flat field generator control and ScopeDome observatory domes provided with ASCOM (tested with ScopeDome Arduino Card ver. 5.5.24).
+![Play configurator](https://www.primalucelab.com/img/cms/PLAY-1-5-dual-ota-mode.gif)
+
+
+- Q: What PLAY features are available in latest PLAY 1.5?
+- A: PLAY 1.5 includes the configurator with ASCOM interface, ESATTO and SESTO SENSO 2 support (with ARCO integration), EQ and Alt-Az mounts support with alignment and target pointing, GIOTTO flat field generator control, ALTO telescope cover motor control, astronomy camera control and ScopeDome observatory domes provided with ASCOM (tested with ScopeDome Arduino Card ver. 5.5.24).
 #
 - Q: How much does PLAY cost?
 - A: PLAY is free.
@@ -63,8 +71,8 @@ PLAY allows you to configurate your telescope by selecting OTA and mount type by
 - Q: Does PLAY work only with the EAGLE computer?
 - A: PLAY is designed for Windows (tested and developed with Windows 10/11 64bit) so you can install it also in standard computers, not only in the EAGLEs.
 #
-- Q: Can I use my third party focuser or rotator with PLAY? Can I use PLAY without ESATTO, SESTO SENSO 2 or GIOTTO?
-- A: No, PLAY doesn’t support third party focusers or rotators and it requires the use of ESATTO focuser, SESTO SENSO 2 focusing motor or GIOTTO flat field generator.
+- Q: Can I use my third party focuser or rotator with PLAY? Can I use PLAY without ESATTO, SESTO SENSO 2, GIOTTO or ALTO?
+- A: No, PLAY doesn’t support third party focusers or rotators and it requires the use of ESATTO focuser, SESTO SENSO 2 focusing motor, GIOTTO flat field generator or ALTO telescope cover motor.
 #
 - Q: What Alt-Az mounts can I use for Alt-Az astrophotography with PLAY?
 - A: Alt-Az deep-sky astrophotography feature in PLAY has been developed for tested with SkyWatcher AZ-EQ5 and AZ-EQ6 mounts and it requires the use of the ARCO rotator.
