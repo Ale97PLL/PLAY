@@ -1,4 +1,4 @@
-# PLAY  - Prima Luce AstrophotographY software
+# PLAY  - Primaluce Lab AstrophotographY software
 
 ![Play Pc](https://www.primalucelab.com/9343-thickbox_default/play-prima-luce-astrophotography-software.jpg)
 
