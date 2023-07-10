@@ -1,6 +1,6 @@
 # PLAY  - Primaluce Lab AstrophotographY software
 
-![Play Pc](https://www.primalucelab.com/9343-thickbox_default/play-prima-luce-astrophotography-software.jpg)
+![Play Pc](https://www.primalucelab.com/9378-large_default/play-prima-luce-astrophotography-software.jpg)
 
 PLAY is the astrophotography software developed by PrimaLuceLab in order to record beautiful pictures of the night sky in the simpler way and with the telescope you prefer! PLAY includes many features needed for astrophotography like focuser control to perfectly focus you image, mount control for alignment and pointing of many objects, camera control to preview image or to record even a sequence and rotator control to rotate your camera and/or de-rotate field of view.
 
