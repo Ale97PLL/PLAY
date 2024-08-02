@@ -53,7 +53,7 @@ The Planetarium draws night sky charts to let you easily identify stars, planets
 
 Not only PLAY allows you to connect to PrimaLuceLab devices, but you can also control astronomy cameras provided with ASCOM drivers (compatible with cameras provided with ASCOM driver updated for ASCOM platform 6.6). This way you can decide your acquisition settings, preview the image, stretch the histogram and capture a sequence of images that you can later stack with a dedicated astrophotography processing software.
 
-![DeepSky preview](https://www.primalucelab.com/img/cms/PLAY-Prima-Luce-AstrophotographY-software-1-9-image4.gif)
+![DeepSky preview](https://www.primalucelab.com/img/cms/PLAY-Prima-Luce-AstrophotographY-software-1-9-2-image4.gif)
 
 ## Take control of your preferred telescope and accessories for astrophotography
 
